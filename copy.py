@@ -1,1 +1,1 @@
-a = list["world","Nepal"]
+a = list["world","world2"]
